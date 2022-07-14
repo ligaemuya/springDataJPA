@@ -49,6 +49,7 @@ class MemberJpaRepositoryTest {
         assertThat(findMember2).isEqualTo(member2);
         
         //수정
+
         //findMember1.setUsername("member!!!!!!!!!!");
 
 
