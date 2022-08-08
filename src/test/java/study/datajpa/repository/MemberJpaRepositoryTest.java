@@ -131,7 +131,7 @@ class MemberJpaRepositoryTest {
         memberJpaRepository.save(new Member("member3", 20));
 
         memberJpaRepository.save(new Member("member4", 20));
-        
+
         memberJpaRepository.save(new Member("member5", 40));
 
         //when
